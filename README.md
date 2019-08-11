@@ -20,5 +20,5 @@ Python script to organize folder files into subfolders.
     4. Wait...
     5. Your files should now be organized into subfolders.
 
-    _Any files that aren't in the current list of file extensions are left alone._
-    _Directories are also left alone._
+    __Any files that aren't in the current list of file extensions are left alone.__
+    __Directories are also left alone.__
