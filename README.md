@@ -1,6 +1,7 @@
 # Organize
 
 Python script to organize folder files into subfolders.
+Tested to work on Windows/Linux/MacOS.
 
 ## Creates 7 subfolders (currently).
 
