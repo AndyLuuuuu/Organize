@@ -15,7 +15,7 @@ Tested to work on Windows/Linux/MacOS.
 
 ## How to use:
 
-    1. Download [Python 3](https://www.python.org/downloads/)
+    1. Download Python 3.
     2. Run script.
     3. Enter the FULL PATH to the directory you wish to organize.
     4. Press "y" or "Y" when asked to confirm.
