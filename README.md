@@ -15,11 +15,12 @@ Tested to work on Windows/Linux/MacOS.
 
 ## How to use:
 
-    1. Run script.
-    2. Enter the FULL PATH to the directory you wish to organize.
-    3. Press "y" or "Y" when asked to confirm.
-    4. Wait...
-    5. Your files should now be organized into subfolders.
+    1. Download [Python 3](https://www.python.org/downloads/)
+    2. Run script.
+    3. Enter the FULL PATH to the directory you wish to organize.
+    4. Press "y" or "Y" when asked to confirm.
+    5. Wait...
+    6. Your files should now be organized into subfolders.
 
 **Any files that aren't in the current list of file extensions are left alone.**
 **Directories are also left alone.**
