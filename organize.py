@@ -15,7 +15,7 @@ exe_ext = ["apk", "bat", "cgi", "pl", "com",
            "exe", "gadget", "jar", "py", "wsf"]
 text_ext = ["doc", "docx", "odt", "pdf",
             "rtf", "tex", "txt", "wks", "wps", "wpd"]
-path = input("Where would you like to scan?\nLocation: ")
+path = input("Where would you like to organize?\nLocation: ")
 files = os.scandir(path)
 file_names = []
 
